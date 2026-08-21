@@ -67,10 +67,9 @@ The main objectives of this project are:
 * Developing a simple hotel reservation management system.
 * Practicing Java programming and project organization.
 
-## 👩‍💻 Author
 
-**Sara**
+
+
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository.
